@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="raw_value_text_size">12sp</dimen>
+    <dimen name="raw_value_width">85dp</dimen>
+    <dimen name="raw_value_padding_top">20dp</dimen>
+    <dimen name="calculated_value_text_size">28sp</dimen>
+    <dimen name="calculated_value_width">85dp</dimen>
+    <dimen name="calculated_value_padding_top">44dp</dimen>
+</resources>
