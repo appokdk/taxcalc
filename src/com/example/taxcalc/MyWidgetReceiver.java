@@ -4,18 +4,10 @@ import com.example.taxcalc.MyPreferenceFragment.Value;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
-import android.appwidget.AppWidgetManager;
 import android.content.BroadcastReceiver;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.graphics.Paint;
-import android.os.SystemClock;
-import android.preference.PreferenceManager;
 import android.util.Log;
-import android.util.TypedValue;
-import android.widget.RemoteViews;
 
 public class MyWidgetReceiver extends BroadcastReceiver {	
 	public static final String ACTION_RESET = "APPWIDGET_RESET";
